@@ -1,0 +1,54 @@
+{
+  "dishes": [
+    {
+      "id": 1,
+      "title": "Paneer",
+      "price": 599
+    },
+    {
+      "id": 2,
+      "title": "Gulab Jamun",
+      "price": 49
+    }
+  ],
+  "users": [
+    {
+      "username": "aman",
+      "email": "aman@test.com",
+      "password": "aman@123",
+      "id": 3
+    },
+    {
+      "username": "shishu",
+      "email": "shishu@test.com",
+      "password": "shihsu@1999",
+      "id": 4
+    },
+    {
+      "username": "RajKumar",
+      "email": "rajkumar@test.com",
+      "password": "rajkumar@123",
+      "id": 5
+    }
+  ],
+  "restaurents": [
+    {
+      "id": 1,
+      "name": "Maharaja Restaurent",
+      "address": "BTM 2nd Stage",
+      "contact": "7896543675"
+    },
+    {
+      "name": "Pirates",
+      "address": "Mid of the ocean",
+      "contact": "7896543469",
+      "id": 4
+    },
+    {
+      "name": "Bhatinda Junction",
+      "address": "BTM ",
+      "contact": "233523523",
+      "id": 5
+    }
+  ]
+}
